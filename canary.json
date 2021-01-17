@@ -1,22 +1,22 @@
 {
   "app": {
-    "version": "f5c2d724",
-    "versionCode": "4829",
-    "link": "app-debug.apk",
+    "version": "6d88d8ad",
+    "versionCode": "4770",
+    "link": "https://raw.githubusercontent.com/souramoo/magisk_files/53179d44d4b291bddb9b0b13ab6cc7d4715b6f03/app-debug.apk",
     "note": "notes.md"
   },
   "magisk": {
-    "version": "f5c2d724",
-    "versionCode": "21302",
-    "link": "magisk-debug.zip",
-    "note": "notes.md",
-    "md5": "a3d145318aac69a94c6a94f569b4ccb7"
+    "version": "6d88d8ad",
+    "versionCode": "21201",
+    "link": "https://raw.githubusercontent.com/souramoo/magisk_files/53179d44d4b291bddb9b0b13ab6cc7d4715b6f03/magisk-debug.zip",
+    "note": "https://raw.githubusercontent.com/souramoo/magisk_files/53179d44d4b291bddb9b0b13ab6cc7d4715b6f03/notes.md",
+    "md5": "fabdea27ef00c37cf40bbb94e2bf7750"
   },
   "uninstaller": {
     "link": "magisk-uninstaller.zip"
   },
   "stub": {
     "versionCode": "15",
-    "link": "stub-release.apk"
+    "link": "https://raw.githubusercontent.com/souramoo/magisk_files/53179d44d4b291bddb9b0b13ab6cc7d4715b6f03/stub-release.apk"
   }
 }
